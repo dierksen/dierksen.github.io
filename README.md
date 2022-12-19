@@ -1,5 +1,3 @@
-# Jonathan Dierksen
-
 👋 Hi, I’m Jonathan! I'm a software engineer at NVIDIA. Previously at Square, Aurora, Dropbox,
 Google, Amazon, Bottle Rocket, and a couple others.
 
