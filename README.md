@@ -8,4 +8,4 @@ to make developers move faster and have a more pleasant time while doing so.
 You can find me at:
 * [GitHub](https://www.github.com/dierksen)
 * [LinkedIn](https://www.linkedin.com/in/jonathandierksen/)
-* <a rel="me" href="https://techhub.social/@dierksen">Mastodon</a>
+* <a rel="me" href="https://hachyderm.io/@dierksen">Mastodon</a>
