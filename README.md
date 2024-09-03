@@ -9,3 +9,4 @@ You can find me at:
 * [GitHub](https://www.github.com/dierksen)
 * [LinkedIn](https://www.linkedin.com/in/jonathandierksen/)
 * <a rel="me" href="https://hachyderm.io/@dierksen">Mastodon</a>
+* [BlueSky](https://bsky.app/profile/dierksen.net)
