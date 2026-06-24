@@ -2,7 +2,7 @@
 Google, Amazon, Bottle Rocket, and a couple others.
 
 Most of my work and professional interests revolve around developer productivity tools, 
-especially things like Bazel, VSCode, and other common workflow items. Mostly, I want
+especially things like Bazel, VSCode, containers, and other common workflow items. Mostly, I want
 to make developers move faster and have a more pleasant time while doing so.
 
 You can find me at:
