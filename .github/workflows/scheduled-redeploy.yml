@@ -1,0 +1,23 @@
+name: Scheduled Redeploy
+
+on:
+  schedule:
+    # Run every Monday at 2 AM UTC (adjust time as needed)
+    - cron: '0 2 * * 1'
+  workflow_dispatch: # Allow manual triggers
+
+jobs:
+  redeploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Trigger GitHub Pages deployment
+        run: |
+          echo "Redeploying GitHub Pages to refresh SSL certificate..."
+          # This empty commit triggers a redeploy
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit --allow-empty -m "chore: trigger redeploy to refresh SSL certificate"
+          git push origin HEAD:master
